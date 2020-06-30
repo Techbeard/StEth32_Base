@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBDYPUAF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STM32_W5500_Baseboard\Design Rule Check - StEth32_Base.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
