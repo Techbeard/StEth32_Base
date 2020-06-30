@@ -102,7 +102,7 @@ https://github.com/LeoDJ/StEth32_Artnet2DMX
 
 |||
 |:--:|:--:|
-| ![alt text](/Docs/Pictures/DMX_OUTPUT_TOP.png "Rückseite des Erweiterungsboards") | ![alt text](/Docs/Pictures/DMX_OUTPUT_Bottom.png "Vorderseite des Erweiterungsboards")|
+| ![alt text](/Docs/Pictures/DMX_OUTPUT_Top.png "Rückseite des Erweiterungsboards") | ![alt text](/Docs/Pictures/DMX_OUTPUT_Bottom.png "Vorderseite des Erweiterungsboards")|
 |*Rückseite des Erweiterungsboards*|*Vorderseite des Erweiterungsboards*|
 | ![StEth32](/Docs/Pictures/StEth32_Base+DMX_OUT_Front.png) | ![StEth32](/Docs/Pictures/StEth32_Base+DMX_OUT_Back.png)|
 |*StEth32_Base + DMX Erweiterung im Gehäuse*|*StEth32_Base + DMX Erweiterung im Gehäuse*|
