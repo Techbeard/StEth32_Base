@@ -1,0 +1,162 @@
+*************************************************************
+FileName = StEth32_Base_XLR_Output.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : StEth32_Base_XLR_Output.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : StEth32_Base_XLR_Output.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : StEth32_Base_XLR_Output.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : StEth32_Base_XLR_Output.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : StEth32_Base_XLR_Output.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : StEth32_Base_XLR_Output.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : StEth32_Base_XLR_Output.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : StEth32_Base_XLR_Output.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : StEth32_Base_XLR_Output.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : StEth32_Base_XLR_Output.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : StEth32_Base_XLR_Output.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D32
+*************************************************************
+

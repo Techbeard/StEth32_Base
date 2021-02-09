@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Dokumente\Projekte\_GitHub\StEth32_Base\StEth32_Base.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=steth32_base-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=steth32_base-slotholes.txt|DrillLayers=gtl,gbl

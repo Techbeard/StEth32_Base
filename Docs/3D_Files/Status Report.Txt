@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:58:46 On 30.06.2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [StEth32_Base.PcbDoc]
+   Generated File[STM32_W5500_Baseboard_ExportSTEP.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:59:01 On 30.06.2020

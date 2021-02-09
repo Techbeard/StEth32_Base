@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=StEth32_Base_OLED_UserIO.SchDoc
+Record=TopLevelDocument|FileName=StEth32_Base_OLED_UserIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=StEth32_Base_OLED_UserIO.SchDoc|FileName=StEth32_Base_Power_Output.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=StEth32_Base_OLED_UserIO.SchDoc|FileName=StEth32_Base_W5500.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=StEth32_Base_OLED_UserIO.SchDoc|FileName=StEth32_Base_µC.SchDoc|SheetNumber= 

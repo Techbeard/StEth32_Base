@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [StEth32_Base_XLR_Output.PcbDoc]
+   Generated File[StEth32_Base_XLR_Output.TXT]
+   Generated File[StEth32_Base_XLR_Output.LDP]
+   Generated File[StEth32_Base_XLR_Output.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:07:48 On 24.07.2020
